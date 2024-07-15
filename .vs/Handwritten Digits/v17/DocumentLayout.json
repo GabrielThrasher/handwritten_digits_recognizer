@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\settings_window.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:settings_window.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\gui.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:gui.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\game_data.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:game_data.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\user_settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:user_settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\handwritten_digits.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:handwritten_digits.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\Machine_Learning_Model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:ml_model\\Machine_Learning_Model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\mnist_loader.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B276959F-F1B7-4D75-9883-1108172DA35A}|Handwritten Digits.pyproj|solutionrelative:ml_model\\mnist_loader.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mnist_loader.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\mnist_loader.py",
+              "RelativeDocumentMoniker": "ml_model\\mnist_loader.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\mnist_loader.py",
+              "RelativeToolTip": "ml_model\\mnist_loader.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:41:55.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "machine_learning_model.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\Machine_Learning_Model.py",
+              "RelativeDocumentMoniker": "ml_model\\Machine_Learning_Model.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\ml_model\\Machine_Learning_Model.py",
+              "RelativeToolTip": "ml_model\\Machine_Learning_Model.py",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:38:21.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user_settings.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\user_settings.py",
+              "RelativeDocumentMoniker": "user_settings.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\user_settings.py",
+              "RelativeToolTip": "user_settings.py",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:38:00.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gui.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\gui.py",
+              "RelativeDocumentMoniker": "gui.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\gui.py",
+              "RelativeToolTip": "gui.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABABAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:37:58.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game_data.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\game_data.py",
+              "RelativeDocumentMoniker": "game_data.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\game_data.py",
+              "RelativeToolTip": "game_data.py",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:37:59.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "handwritten_digits.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\Handwritten_Digits.py",
+              "RelativeDocumentMoniker": "Handwritten_Digits.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\Handwritten_Digits.py",
+              "RelativeToolTip": "Handwritten_Digits.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T01:37:26.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings_window.py",
+              "DocumentMoniker": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\settings_window.py",
+              "RelativeDocumentMoniker": "settings_window.py",
+              "ToolTip": "C:\\Users\\gthra\\Coding\\Machine Learning\\handwritten_digits_project\\handwritten_digits\\settings_window.py",
+              "RelativeToolTip": "settings_window.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEzSURBVDhPpZOxioNAGITHwzJlCpuABxYWKVLkAezFtxAs7a5NKQeBpEtjESGgb\u002BAD2AgWNoKChZZ2SWeKwN66eMGNEkjywYC7vzP4Dyh8578Eb1KpP0Af8JY67xd9\u002BAguoKoqpiiKYNs2uxNFEbquIwxD5HmOw\u002BGA\u002BXzOZh1cgCzLCIIARVFgv99D0zQ4joPT6YQ4juG6LtbrNQu9M\u002Bygg5qIqqqkbVtiWRY5n89kt9txu/9rsgPf95EkCS6XCzzPw/V6RdM0/XTMKGC73cIwDCwWC2Y\u002BHo8wTROr1QqKomCz2WA2m/VvUx5XoD1wnylJEknTlM06yrIkNIjNmHcY0JlpQffzUMvlkml4N\u002Bqgrmvcbrf\u002BxJNlGdMjow5ehQugK07qGVyAIAiTesbHK3z0OwPAH6D4xld\u002BSxLJAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-07-14T01:37:56.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

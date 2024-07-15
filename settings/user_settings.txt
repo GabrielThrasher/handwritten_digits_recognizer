@@ -1,0 +1,11 @@
+draw_mode_bind,d,False
+erase_mode_bind,e,False
+reset_bind,r
+settings_bind,s
+thickness,medium
+num_edges,8
+pressure_sensitivity,True
+active_bg,concrete background
+accent_color1,75,75,75
+accent_color2,180,180,180
+accent_color3,75,75,75
